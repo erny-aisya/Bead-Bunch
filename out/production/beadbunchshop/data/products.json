@@ -1,0 +1,14 @@
+[
+  {
+    "productId": 1,
+    "name": "Keychain",
+    "price": 5.00,
+    "description": "Customizable keychain"
+  },
+  {
+    "productId": 2,
+    "name": "Phone Charm",
+    "price": 8.00,
+    "description": "Personalized phone charm"
+  }
+]
